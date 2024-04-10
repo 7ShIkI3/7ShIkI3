@@ -1,4 +1,3 @@
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ShIkI3)](https://github.com/7ShIkI3/github-readme-stats)
 
 <!---

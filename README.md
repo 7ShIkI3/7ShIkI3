@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @7ShIkI3
-- 👀 I’m interested in informatics, i would to be a scientist
-- 🌱 I’m currently learning the Python language
-- 💞️ I’m looking to collaborate on nothing because i currently very bad
-- 📫 How to reach me ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ShIkI3)](https://github.com/7ShIkI3/github-readme-stats)
 
 <!---
 7ShIkI3/7ShIkI3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
